@@ -34,3 +34,5 @@ public class R192211219 {
         return mergedArray;
     }
 }
+
+Enter an integer: Output: true
